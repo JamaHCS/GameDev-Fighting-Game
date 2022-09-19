@@ -11,18 +11,10 @@ public class Scene1 : MonoBehaviour
     public static Scene1 scene1;
     public TMP_InputField inputField;
     public TMP_InputField inputField2;
-    public string player1Name;
-    public string player2Name;
+    public string player1Name= "";
+    public string player2Name = "";
 
     public Button button1;
-
-    void Start (){
-
-    }
-
-    void Update () {
-
-    }
 
     private void Awake(){
 
@@ -35,6 +27,11 @@ public class Scene1 : MonoBehaviour
         else {
             Destroy(gameObject);
         }
+
+    }
+
+
+    void Update () {
 
     }
 

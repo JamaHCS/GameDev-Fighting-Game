@@ -645,8 +645,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   p1Name: {fileID: 181570648}
   p2Name: {fileID: 550911784}
-  p1HPUI: {fileID: 1382576854}
-  p2HPUI: {fileID: 967829729}
+  p1HPUI: {fileID: 1382576856}
+  p2HPUI: {fileID: 967829731}
   p1HP: 100
   p2HP: 100
 --- !u!4 &1309350213

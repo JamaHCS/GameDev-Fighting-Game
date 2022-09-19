@@ -480,8 +480,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputField: {fileID: 118728873}
   inputField2: {fileID: 584492109}
-  player1Name: 
-  player2Name: 
+  player1Name: Kayl
+  player2Name: Kayl
   button1: {fileID: 1630114683}
 --- !u!1 &384617061
 GameObject:
